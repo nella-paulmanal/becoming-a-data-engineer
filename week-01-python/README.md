@@ -6,4 +6,4 @@
 - Numpys
 
 ### Resources: 
-- [Introduction to Python (DataCamp)]([https://www.datacamp.com/...](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copy))
+- [Introduction to Python (DataCamp)] (https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage&utm_source=copy)
