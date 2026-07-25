@@ -5,7 +5,7 @@
 ### Resources: 
 - [Introduction to Python (DataCamp)](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-### 24 July 2026 FTW Session Takeaways:
+### FTW Session Takeaways (July 24, 2026):
 - Workflow is important in executing a process
 - Turn a problem into questions which should be answered
 - Tracking is important because if we have the information, we could easily make a decision or answer a question.
