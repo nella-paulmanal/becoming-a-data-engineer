@@ -13,5 +13,6 @@
 - Data quality is not a one-time project. It must be continuously maintained.
 
 ### Exercises
-- 1. We were given a set of data with errors and tasked to identify the problems/inconsistencies and determine what validation rule must be followed in order to avoid it (individual and by group). 
+- We were given a set of data with errors and tasked to identify the problems/inconsistencies and determine what validation rule must be followed in order to avoid it (individual and by group).
+- Recitation/presentation
 
